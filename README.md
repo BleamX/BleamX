@@ -2,7 +2,7 @@
 
 
 Hey, well, actually I code (sometimes) and uh, it's hard so I try to do my best... Well... yeah. That's it.
-(In formation OK? Not pro at all, just as a hobby)  
+(In formation OK? Not pro at all, just as a hobby)      
 -Python  
 -HTML / CSS / JS  
 -C++  
